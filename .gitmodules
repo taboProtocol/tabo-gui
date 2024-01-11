@@ -1,0 +1,7 @@
+[submodule "tabo"]
+	path = tabo
+	url = https://github.com/taboprotocol/tabo
+	ignore = all
+[submodule "external/quirc"]
+	path = external/quirc
+	url = https://github.com/dlbeer/quirc/
